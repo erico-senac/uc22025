@@ -1,0 +1,41 @@
+
+body{
+    background-color: hsl(69, 74%, 65%)
+}
+div#maior{
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    background: linear-gradient(to left, #cafe10 50%, #fff);
+    border-style: solid;
+    padding: 10px;
+}
+#logo{
+    border-radius: 25%;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: #fff;
+    background-color: #cafe10;
+}
+ul#_links > li{
+    list-style: none;
+}
+table{
+    border: solid 1px;
+    border-collapse: collapse;
+}
+td, th{
+    border: solid 1px;
+    padding: 5px;
+}
+#maior{
+    background-color: hsla(271, 76%, 53%, 0.477);
+    font-family: 'Courier New', Courier, monospace;
+}
+.praia{
+    border-color: rgb(208, 112, 39);
+    color: rgb(113, 9, 9);
+}
